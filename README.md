@@ -1,3 +1,3 @@
 To Do App 
 
-Programming Language:- React, Html and CSS
+Programming Language:- React.js, Javascript , Html and CSS
